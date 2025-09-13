@@ -1,6 +1,5 @@
 {
   "name": "wedding-hall-booking-server",
-  "version": "1.0.0",
   "description": "Wedding Hall Booking Management System API",
   "main": "server.js",
   "scripts": {
